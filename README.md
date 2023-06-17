@@ -9,12 +9,3 @@ The website has the following specification -
 Flow: Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 Front end :
  HTML, CSS, Bootstrap & Javascript
-
-# banking-system
-# web-development
-# HTML
-# CSS
-# Javascript
-# internship
-# GRIPjune23
-# The-sparks-foundation
